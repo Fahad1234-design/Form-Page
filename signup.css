@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+	background-size: cover;
+}
+.sign-up-successful{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sign-up-successful h2{
+    color: #fff;
+    font-size: 65px;
+    text-align: center;
+}
+
+.sign-up-successful h4{
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+}
